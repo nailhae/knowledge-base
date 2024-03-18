@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "598ea7c2d72dc736",
+    "type": "split",
+    "children": [
+      {
+        "id": "8edc93fc8ce073d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e180ed8c8a94df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "error_fix/Could not find artifact org.springframework.boot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c63ed36bf6bfeeda",
+    "type": "split",
+    "children": [
+      {
+        "id": "37e46c94292694cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8958dbd2ce2e4e17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a058c07fc09f935c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fac4a94bf84eb597",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f3721fba6fd29c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce478f09453c8854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7bded82d57fe96f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "error_fix/Could not find artifact org.springframework.boot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbed748c544a8109",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "error_fix/Could not find artifact org.springframework.boot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31d349bc6091ea3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "718af0b251805663",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "error_fix/Could not find artifact org.springframework.boot.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "84e180ed8c8a94df",
+  "lastOpenFiles": [
+    "SQL_command.md",
+    "error_fix/Could not find artifact org.springframework.boot.md",
+    "error_fix"
+  ]
+}
